@@ -1,0 +1,44 @@
+INFO    2024-06-24 16:00:09,019 [main] testcases.OpenAccountTest  - Test Execution started !!!
+INFO    2024-06-24 16:00:09,020 [main] testcases.OpenAccountTest  - OR Properties file loaded.
+INFO    2024-06-24 16:00:11,288 [main] testcases.BankManagerLoginTest  - Launching Chrome browser
+INFO    2024-06-24 16:00:14,704 [main] testcases.BankManagerLoginTest  - Navigated to : https://www.way2automation.com/angularjs-protractor/banking/#/login
+INFO    2024-06-24 16:00:16,007 [main] testcases.BankManagerLoginTest  - Clicking on an Element : bmlBtn_CSS
+INFO    2024-06-24 16:00:16,527 [main] testcases.BankManagerLoginTest  - Finding an Element : addCustBtn_CSS
+INFO    2024-06-24 16:00:16,549 [main] testcases.BankManagerLoginTest  - Finding an Element : addCustBtn_CSS
+INFO    2024-06-24 16:00:18,766 [main] testcases.AddCustomerTest  - Launching Chrome browser
+INFO    2024-06-24 16:00:22,176 [main] testcases.AddCustomerTest  - Navigated to : https://www.way2automation.com/angularjs-protractor/banking/#/login
+INFO    2024-06-24 16:00:23,262 [main] testcases.AddCustomerTest  - Clicking on an Element : bmlBtn_CSS
+INFO    2024-06-24 16:00:23,799 [main] testcases.AddCustomerTest  - Clicking on an Element : addCustBtn_CSS
+INFO    2024-06-24 16:00:24,368 [main] testcases.AddCustomerTest  - Typing in an Element : firstname_CSS and entered the value as :Raman
+INFO    2024-06-24 16:00:24,383 [main] testcases.AddCustomerTest  - Typing in an Element : lastname_XPATH and entered the value as :Arora
+INFO    2024-06-24 16:00:24,394 [main] testcases.AddCustomerTest  - Typing in an Element : postcode_CSS and entered the value as :A234324
+INFO    2024-06-24 16:00:28,467 [main] testcases.AddCustomerTest  - Clicking on an Element : addbtn_CSS
+INFO    2024-06-24 16:00:29,269 [main] testcases.AddCustomerTest  - Launching Firefox browser
+INFO    2024-06-24 16:00:36,000 [main] testcases.AddCustomerTest  - Navigated to : https://www.way2automation.com/angularjs-protractor/banking/#/login
+INFO    2024-06-24 16:00:37,117 [main] testcases.AddCustomerTest  - Clicking on an Element : bmlBtn_CSS
+INFO    2024-06-24 16:00:37,624 [main] testcases.AddCustomerTest  - Clicking on an Element : addCustBtn_CSS
+INFO    2024-06-24 16:00:38,137 [main] testcases.AddCustomerTest  - Typing in an Element : firstname_CSS and entered the value as :Tom
+INFO    2024-06-24 16:00:38,161 [main] testcases.AddCustomerTest  - Typing in an Element : lastname_XPATH and entered the value as :Smith
+INFO    2024-06-24 16:00:38,190 [main] testcases.AddCustomerTest  - Typing in an Element : postcode_CSS and entered the value as :D53434
+INFO    2024-06-24 16:00:42,276 [main] testcases.AddCustomerTest  - Clicking on an Element : addbtn_CSS
+INFO    2024-06-24 16:00:43,857 [main] testcases.OpenAccountTest  - Launching Chrome browser
+INFO    2024-06-24 16:00:48,472 [main] testcases.OpenAccountTest  - Navigated to : https://www.way2automation.com/angularjs-protractor/banking/#/login
+INFO    2024-06-24 16:00:48,531 [main] testcases.OpenAccountTest  - Clicking on an Element : bmlBtn_CSS
+INFO    2024-06-24 16:00:49,023 [main] testcases.OpenAccountTest  - Clicking on an Element : openaccount_CSS
+INFO    2024-06-24 16:00:49,571 [main] testcases.OpenAccountTest  - Selecting an Element : customer_CSS and selected the value as :Harry Potter
+INFO    2024-06-24 16:00:49,597 [main] testcases.OpenAccountTest  - Selecting an Element : currency_CSS and selected the value as :Rupee
+INFO    2024-06-24 16:00:53,651 [main] testcases.OpenAccountTest  - Clicking on an Element : process_CSS
+INFO    2024-06-24 16:00:54,497 [main] testcases.OpenAccountTest  - Launching Chrome browser
+INFO    2024-06-24 16:00:58,375 [main] testcases.OpenAccountTest  - Navigated to : https://www.way2automation.com/angularjs-protractor/banking/#/login
+INFO    2024-06-24 16:00:59,483 [main] testcases.OpenAccountTest  - Clicking on an Element : bmlBtn_CSS
+INFO    2024-06-24 16:01:00,008 [main] testcases.OpenAccountTest  - Clicking on an Element : openaccount_CSS
+INFO    2024-06-24 16:01:00,605 [main] testcases.OpenAccountTest  - Selecting an Element : customer_CSS and selected the value as :Ron Weasly
+INFO    2024-06-24 16:01:00,624 [main] testcases.OpenAccountTest  - Selecting an Element : currency_CSS and selected the value as :Dollar
+INFO    2024-06-24 16:01:04,704 [main] testcases.OpenAccountTest  - Clicking on an Element : process_CSS
+INFO    2024-06-24 16:01:05,629 [main] testcases.OpenAccountTest  - Launching Firefox browser
+INFO    2024-06-24 16:01:12,745 [main] testcases.OpenAccountTest  - Navigated to : https://www.way2automation.com/angularjs-protractor/banking/#/login
+INFO    2024-06-24 16:01:13,862 [main] testcases.OpenAccountTest  - Clicking on an Element : bmlBtn_CSS
+INFO    2024-06-24 16:01:14,434 [main] testcases.OpenAccountTest  - Clicking on an Element : openaccount_CSS
+INFO    2024-06-24 16:01:15,001 [main] testcases.OpenAccountTest  - Selecting an Element : customer_CSS and selected the value as :Hermoine Granger
+INFO    2024-06-24 16:01:15,026 [main] testcases.OpenAccountTest  - Selecting an Element : currency_CSS and selected the value as :Pound
+INFO    2024-06-24 16:01:19,111 [main] testcases.OpenAccountTest  - Clicking on an Element : process_CSS
