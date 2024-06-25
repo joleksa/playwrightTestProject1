@@ -119,7 +119,7 @@ public class ExtentListeners implements ITestListener, ISuiteListener {
 
 		try {
 			messageBody = "http://" + InetAddress.getLocalHost().getHostAddress()
-					+ ":8080/job/PlaywrightProject/Extent_20Reports/";
+					+ ":8080/job/PlaywrightProject1/Extent_20Report/";
 		} catch (UnknownHostException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
